@@ -4,12 +4,11 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome:Maria Luiza Sousa Montaño
+- Matrícula:925569
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - LISTA DE CARDS COM FILMES - AQUI >>
+![Lista de cards com filmes](public/imagens/Captura de tela 2026-06-10 210421.png)
 
-<<  COLOQUE A IMAGEM - RESULTADO DE UMA PESQUISA - AQUI >>
-
+![Resultado de uma pesquisa](public/imagens/Captura de tela 2026-06-10 210612.png)
