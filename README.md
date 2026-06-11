@@ -9,6 +9,6 @@ Nesta atividade, vamos trabalhar com uma API de mercado para montar uma interfac
 
 ## Prints do trabalho
 
-![Lista de cards com filmes](public/imagens/Captura de tela 2026-06-10 210421.png)
+![Lista de cards com filmes](public/imagens/lista-de-cards.png)
 
-![Resultado de uma pesquisa](public/imagens/Captura de tela 2026-06-10 210612.png)
+![Resultado de uma pesquisa](public/imagens/resultado-pesquisa.png)
